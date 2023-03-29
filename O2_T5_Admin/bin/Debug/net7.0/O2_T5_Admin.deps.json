@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "O2_T5_Admin/1.0.0": {
+        "runtime": {
+          "O2_T5_Admin.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "O2_T5_Admin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

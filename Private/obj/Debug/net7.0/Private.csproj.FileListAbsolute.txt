@@ -1,0 +1,15 @@
+D:\Koulu\Ohjelmointi\Ohjelmointi2\Luentoharkat\Private\obj\Debug\net7.0\Private.csproj.AssemblyReference.cache
+D:\Koulu\Ohjelmointi\Ohjelmointi2\Luentoharkat\Private\obj\Debug\net7.0\Private.GeneratedMSBuildEditorConfig.editorconfig
+D:\Koulu\Ohjelmointi\Ohjelmointi2\Luentoharkat\Private\obj\Debug\net7.0\Private.AssemblyInfoInputs.cache
+D:\Koulu\Ohjelmointi\Ohjelmointi2\Luentoharkat\Private\obj\Debug\net7.0\Private.AssemblyInfo.cs
+D:\Koulu\Ohjelmointi\Ohjelmointi2\Luentoharkat\Private\obj\Debug\net7.0\Private.csproj.CoreCompileInputs.cache
+D:\Koulu\Ohjelmointi\Ohjelmointi2\Luentoharkat\Private\bin\Debug\net7.0\Private.exe
+D:\Koulu\Ohjelmointi\Ohjelmointi2\Luentoharkat\Private\bin\Debug\net7.0\Private.deps.json
+D:\Koulu\Ohjelmointi\Ohjelmointi2\Luentoharkat\Private\bin\Debug\net7.0\Private.runtimeconfig.json
+D:\Koulu\Ohjelmointi\Ohjelmointi2\Luentoharkat\Private\bin\Debug\net7.0\Private.dll
+D:\Koulu\Ohjelmointi\Ohjelmointi2\Luentoharkat\Private\bin\Debug\net7.0\Private.pdb
+D:\Koulu\Ohjelmointi\Ohjelmointi2\Luentoharkat\Private\obj\Debug\net7.0\Private.dll
+D:\Koulu\Ohjelmointi\Ohjelmointi2\Luentoharkat\Private\obj\Debug\net7.0\refint\Private.dll
+D:\Koulu\Ohjelmointi\Ohjelmointi2\Luentoharkat\Private\obj\Debug\net7.0\Private.pdb
+D:\Koulu\Ohjelmointi\Ohjelmointi2\Luentoharkat\Private\obj\Debug\net7.0\Private.genruntimeconfig.cache
+D:\Koulu\Ohjelmointi\Ohjelmointi2\Luentoharkat\Private\obj\Debug\net7.0\ref\Private.dll

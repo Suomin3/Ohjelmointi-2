@@ -1,0 +1,15 @@
+D:\Koulu\Ohjelmointi2\Luentoharkat\List2\obj\Debug\net7.0\List2.csproj.AssemblyReference.cache
+D:\Koulu\Ohjelmointi2\Luentoharkat\List2\obj\Debug\net7.0\List2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Koulu\Ohjelmointi2\Luentoharkat\List2\obj\Debug\net7.0\List2.AssemblyInfoInputs.cache
+D:\Koulu\Ohjelmointi2\Luentoharkat\List2\obj\Debug\net7.0\List2.AssemblyInfo.cs
+D:\Koulu\Ohjelmointi2\Luentoharkat\List2\obj\Debug\net7.0\List2.csproj.CoreCompileInputs.cache
+D:\Koulu\Ohjelmointi2\Luentoharkat\List2\bin\Debug\net7.0\List2.exe
+D:\Koulu\Ohjelmointi2\Luentoharkat\List2\bin\Debug\net7.0\List2.deps.json
+D:\Koulu\Ohjelmointi2\Luentoharkat\List2\bin\Debug\net7.0\List2.runtimeconfig.json
+D:\Koulu\Ohjelmointi2\Luentoharkat\List2\bin\Debug\net7.0\List2.dll
+D:\Koulu\Ohjelmointi2\Luentoharkat\List2\bin\Debug\net7.0\List2.pdb
+D:\Koulu\Ohjelmointi2\Luentoharkat\List2\obj\Debug\net7.0\List2.dll
+D:\Koulu\Ohjelmointi2\Luentoharkat\List2\obj\Debug\net7.0\refint\List2.dll
+D:\Koulu\Ohjelmointi2\Luentoharkat\List2\obj\Debug\net7.0\List2.pdb
+D:\Koulu\Ohjelmointi2\Luentoharkat\List2\obj\Debug\net7.0\List2.genruntimeconfig.cache
+D:\Koulu\Ohjelmointi2\Luentoharkat\List2\obj\Debug\net7.0\ref\List2.dll
