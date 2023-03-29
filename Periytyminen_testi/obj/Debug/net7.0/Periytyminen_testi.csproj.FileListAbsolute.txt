@@ -1,0 +1,15 @@
+E:\Koulu\Ohjelmointi_2\Harkat\Periytyminen_testi\obj\Debug\net7.0\Periytyminen_testi.csproj.AssemblyReference.cache
+E:\Koulu\Ohjelmointi_2\Harkat\Periytyminen_testi\obj\Debug\net7.0\Periytyminen_testi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Koulu\Ohjelmointi_2\Harkat\Periytyminen_testi\obj\Debug\net7.0\Periytyminen_testi.AssemblyInfoInputs.cache
+E:\Koulu\Ohjelmointi_2\Harkat\Periytyminen_testi\obj\Debug\net7.0\Periytyminen_testi.AssemblyInfo.cs
+E:\Koulu\Ohjelmointi_2\Harkat\Periytyminen_testi\obj\Debug\net7.0\Periytyminen_testi.csproj.CoreCompileInputs.cache
+E:\Koulu\Ohjelmointi_2\Harkat\Periytyminen_testi\bin\Debug\net7.0\Periytyminen_testi.exe
+E:\Koulu\Ohjelmointi_2\Harkat\Periytyminen_testi\bin\Debug\net7.0\Periytyminen_testi.deps.json
+E:\Koulu\Ohjelmointi_2\Harkat\Periytyminen_testi\bin\Debug\net7.0\Periytyminen_testi.runtimeconfig.json
+E:\Koulu\Ohjelmointi_2\Harkat\Periytyminen_testi\bin\Debug\net7.0\Periytyminen_testi.dll
+E:\Koulu\Ohjelmointi_2\Harkat\Periytyminen_testi\bin\Debug\net7.0\Periytyminen_testi.pdb
+E:\Koulu\Ohjelmointi_2\Harkat\Periytyminen_testi\obj\Debug\net7.0\Periytyminen_testi.dll
+E:\Koulu\Ohjelmointi_2\Harkat\Periytyminen_testi\obj\Debug\net7.0\refint\Periytyminen_testi.dll
+E:\Koulu\Ohjelmointi_2\Harkat\Periytyminen_testi\obj\Debug\net7.0\Periytyminen_testi.pdb
+E:\Koulu\Ohjelmointi_2\Harkat\Periytyminen_testi\obj\Debug\net7.0\Periytyminen_testi.genruntimeconfig.cache
+E:\Koulu\Ohjelmointi_2\Harkat\Periytyminen_testi\obj\Debug\net7.0\ref\Periytyminen_testi.dll

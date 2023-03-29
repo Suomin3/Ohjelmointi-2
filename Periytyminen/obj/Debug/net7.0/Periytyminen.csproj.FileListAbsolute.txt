@@ -1,0 +1,15 @@
+E:\Koulu\Ohjelmointi_2\Harkat\Periytyminen\obj\Debug\net7.0\Periytyminen.csproj.AssemblyReference.cache
+E:\Koulu\Ohjelmointi_2\Harkat\Periytyminen\obj\Debug\net7.0\Periytyminen.GeneratedMSBuildEditorConfig.editorconfig
+E:\Koulu\Ohjelmointi_2\Harkat\Periytyminen\obj\Debug\net7.0\Periytyminen.AssemblyInfoInputs.cache
+E:\Koulu\Ohjelmointi_2\Harkat\Periytyminen\obj\Debug\net7.0\Periytyminen.AssemblyInfo.cs
+E:\Koulu\Ohjelmointi_2\Harkat\Periytyminen\obj\Debug\net7.0\Periytyminen.csproj.CoreCompileInputs.cache
+E:\Koulu\Ohjelmointi_2\Harkat\Periytyminen\bin\Debug\net7.0\Periytyminen.exe
+E:\Koulu\Ohjelmointi_2\Harkat\Periytyminen\bin\Debug\net7.0\Periytyminen.deps.json
+E:\Koulu\Ohjelmointi_2\Harkat\Periytyminen\bin\Debug\net7.0\Periytyminen.runtimeconfig.json
+E:\Koulu\Ohjelmointi_2\Harkat\Periytyminen\bin\Debug\net7.0\Periytyminen.dll
+E:\Koulu\Ohjelmointi_2\Harkat\Periytyminen\bin\Debug\net7.0\Periytyminen.pdb
+E:\Koulu\Ohjelmointi_2\Harkat\Periytyminen\obj\Debug\net7.0\Periytyminen.dll
+E:\Koulu\Ohjelmointi_2\Harkat\Periytyminen\obj\Debug\net7.0\refint\Periytyminen.dll
+E:\Koulu\Ohjelmointi_2\Harkat\Periytyminen\obj\Debug\net7.0\Periytyminen.pdb
+E:\Koulu\Ohjelmointi_2\Harkat\Periytyminen\obj\Debug\net7.0\Periytyminen.genruntimeconfig.cache
+E:\Koulu\Ohjelmointi_2\Harkat\Periytyminen\obj\Debug\net7.0\ref\Periytyminen.dll

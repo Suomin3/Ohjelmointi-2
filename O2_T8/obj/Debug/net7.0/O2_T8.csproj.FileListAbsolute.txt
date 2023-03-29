@@ -1,0 +1,15 @@
+E:\Koulu\Ohjelmointi_2\Harkat\O2_T8\obj\Debug\net7.0\O2_T8.csproj.AssemblyReference.cache
+E:\Koulu\Ohjelmointi_2\Harkat\O2_T8\obj\Debug\net7.0\O2_T8.GeneratedMSBuildEditorConfig.editorconfig
+E:\Koulu\Ohjelmointi_2\Harkat\O2_T8\obj\Debug\net7.0\O2_T8.AssemblyInfoInputs.cache
+E:\Koulu\Ohjelmointi_2\Harkat\O2_T8\obj\Debug\net7.0\O2_T8.AssemblyInfo.cs
+E:\Koulu\Ohjelmointi_2\Harkat\O2_T8\obj\Debug\net7.0\O2_T8.csproj.CoreCompileInputs.cache
+E:\Koulu\Ohjelmointi_2\Harkat\O2_T8\bin\Debug\net7.0\O2_T8.exe
+E:\Koulu\Ohjelmointi_2\Harkat\O2_T8\bin\Debug\net7.0\O2_T8.deps.json
+E:\Koulu\Ohjelmointi_2\Harkat\O2_T8\bin\Debug\net7.0\O2_T8.runtimeconfig.json
+E:\Koulu\Ohjelmointi_2\Harkat\O2_T8\bin\Debug\net7.0\O2_T8.dll
+E:\Koulu\Ohjelmointi_2\Harkat\O2_T8\bin\Debug\net7.0\O2_T8.pdb
+E:\Koulu\Ohjelmointi_2\Harkat\O2_T8\obj\Debug\net7.0\O2_T8.dll
+E:\Koulu\Ohjelmointi_2\Harkat\O2_T8\obj\Debug\net7.0\refint\O2_T8.dll
+E:\Koulu\Ohjelmointi_2\Harkat\O2_T8\obj\Debug\net7.0\O2_T8.pdb
+E:\Koulu\Ohjelmointi_2\Harkat\O2_T8\obj\Debug\net7.0\O2_T8.genruntimeconfig.cache
+E:\Koulu\Ohjelmointi_2\Harkat\O2_T8\obj\Debug\net7.0\ref\O2_T8.dll

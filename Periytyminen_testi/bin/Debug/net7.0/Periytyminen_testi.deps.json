@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Periytyminen_testi/1.0.0": {
+        "runtime": {
+          "Periytyminen_testi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Periytyminen_testi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

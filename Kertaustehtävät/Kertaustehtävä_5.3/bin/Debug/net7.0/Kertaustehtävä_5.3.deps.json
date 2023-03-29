@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Kertaustehtävä_5.3/1.0.0": {
+        "runtime": {
+          "Kertaustehtävä_5.3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kertaustehtävä_5.3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+E:\Koulu\Koulutehtävät\Joulukuusi\obj\Debug\net7.0\Joulukuusi.csproj.AssemblyReference.cache
+E:\Koulu\Koulutehtävät\Joulukuusi\obj\Debug\net7.0\Joulukuusi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Koulu\Koulutehtävät\Joulukuusi\obj\Debug\net7.0\Joulukuusi.AssemblyInfoInputs.cache
+E:\Koulu\Koulutehtävät\Joulukuusi\obj\Debug\net7.0\Joulukuusi.AssemblyInfo.cs
+E:\Koulu\Koulutehtävät\Joulukuusi\obj\Debug\net7.0\Joulukuusi.csproj.CoreCompileInputs.cache
+E:\Koulu\Koulutehtävät\Joulukuusi\bin\Debug\net7.0\Joulukuusi.exe
+E:\Koulu\Koulutehtävät\Joulukuusi\bin\Debug\net7.0\Joulukuusi.deps.json
+E:\Koulu\Koulutehtävät\Joulukuusi\bin\Debug\net7.0\Joulukuusi.runtimeconfig.json
+E:\Koulu\Koulutehtävät\Joulukuusi\bin\Debug\net7.0\Joulukuusi.dll
+E:\Koulu\Koulutehtävät\Joulukuusi\bin\Debug\net7.0\Joulukuusi.pdb
+E:\Koulu\Koulutehtävät\Joulukuusi\obj\Debug\net7.0\Joulukuusi.dll
+E:\Koulu\Koulutehtävät\Joulukuusi\obj\Debug\net7.0\refint\Joulukuusi.dll
+E:\Koulu\Koulutehtävät\Joulukuusi\obj\Debug\net7.0\Joulukuusi.pdb
+E:\Koulu\Koulutehtävät\Joulukuusi\obj\Debug\net7.0\Joulukuusi.genruntimeconfig.cache
+E:\Koulu\Koulutehtävät\Joulukuusi\obj\Debug\net7.0\ref\Joulukuusi.dll

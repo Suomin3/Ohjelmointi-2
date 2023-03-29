@@ -1,0 +1,15 @@
+E:\Koulu\Ohjelmointi_2\Harkat\Kertaustehtävä_5.3\obj\Debug\net7.0\Kertaustehtävä_5.3.csproj.AssemblyReference.cache
+E:\Koulu\Ohjelmointi_2\Harkat\Kertaustehtävä_5.3\obj\Debug\net7.0\Kertaustehtävä_5.3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Koulu\Ohjelmointi_2\Harkat\Kertaustehtävä_5.3\obj\Debug\net7.0\Kertaustehtävä_5.3.AssemblyInfoInputs.cache
+E:\Koulu\Ohjelmointi_2\Harkat\Kertaustehtävä_5.3\obj\Debug\net7.0\Kertaustehtävä_5.3.AssemblyInfo.cs
+E:\Koulu\Ohjelmointi_2\Harkat\Kertaustehtävä_5.3\obj\Debug\net7.0\Kertaustehtävä_5.3.csproj.CoreCompileInputs.cache
+E:\Koulu\Ohjelmointi_2\Harkat\Kertaustehtävä_5.3\bin\Debug\net7.0\Kertaustehtävä_5.3.exe
+E:\Koulu\Ohjelmointi_2\Harkat\Kertaustehtävä_5.3\bin\Debug\net7.0\Kertaustehtävä_5.3.deps.json
+E:\Koulu\Ohjelmointi_2\Harkat\Kertaustehtävä_5.3\bin\Debug\net7.0\Kertaustehtävä_5.3.runtimeconfig.json
+E:\Koulu\Ohjelmointi_2\Harkat\Kertaustehtävä_5.3\bin\Debug\net7.0\Kertaustehtävä_5.3.dll
+E:\Koulu\Ohjelmointi_2\Harkat\Kertaustehtävä_5.3\bin\Debug\net7.0\Kertaustehtävä_5.3.pdb
+E:\Koulu\Ohjelmointi_2\Harkat\Kertaustehtävä_5.3\obj\Debug\net7.0\Kertaustehtävä_5.3.dll
+E:\Koulu\Ohjelmointi_2\Harkat\Kertaustehtävä_5.3\obj\Debug\net7.0\refint\Kertaustehtävä_5.3.dll
+E:\Koulu\Ohjelmointi_2\Harkat\Kertaustehtävä_5.3\obj\Debug\net7.0\Kertaustehtävä_5.3.pdb
+E:\Koulu\Ohjelmointi_2\Harkat\Kertaustehtävä_5.3\obj\Debug\net7.0\Kertaustehtävä_5.3.genruntimeconfig.cache
+E:\Koulu\Ohjelmointi_2\Harkat\Kertaustehtävä_5.3\obj\Debug\net7.0\ref\Kertaustehtävä_5.3.dll
