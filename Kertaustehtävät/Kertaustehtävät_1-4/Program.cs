@@ -1,6 +1,6 @@
 ﻿namespace Kertaustehtävät;
 
-class Program 
+class Program
 {
     static void Tehtava1() {
         Console.Write("Mihin asti? ");
@@ -52,11 +52,11 @@ class Program
         Console.Write("Toistot?: ");
         int toistot = Int32.Parse(Console.ReadLine());
 
-        for (int i = 0; i < toistot; i++) {
-            Console.WriteLine(input);
-            if (i > 3) {
+        for (int i = 1; i < toistot; i++) {
+            if (i > 5) {
                 break;
             }
+            Console.WriteLine(input);
         }
     }
     static void Main(string[] args) {

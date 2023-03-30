@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Koulu\\Ohjelmointi_2\\Harkat\\Kertaustehtävät\\Kertaustehtävät_1-4\\Kertaustehtävät.csproj": {}
+    "D:\\Koulu\\Ohjelmointi_2\\Harkat\\Lambdaharkka2\\Lambdaharkka2.csproj": {}
   },
   "projects": {
-    "D:\\Koulu\\Ohjelmointi_2\\Harkat\\Kertaustehtävät\\Kertaustehtävät_1-4\\Kertaustehtävät.csproj": {
+    "D:\\Koulu\\Ohjelmointi_2\\Harkat\\Lambdaharkka2\\Lambdaharkka2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Koulu\\Ohjelmointi_2\\Harkat\\Kertaustehtävät\\Kertaustehtävät_1-4\\Kertaustehtävät.csproj",
-        "projectName": "Kertaustehtävät",
-        "projectPath": "D:\\Koulu\\Ohjelmointi_2\\Harkat\\Kertaustehtävät\\Kertaustehtävät_1-4\\Kertaustehtävät.csproj",
+        "projectUniqueName": "D:\\Koulu\\Ohjelmointi_2\\Harkat\\Lambdaharkka2\\Lambdaharkka2.csproj",
+        "projectName": "Lambdaharkka2",
+        "projectPath": "D:\\Koulu\\Ohjelmointi_2\\Harkat\\Lambdaharkka2\\Lambdaharkka2.csproj",
         "packagesPath": "C:\\Users\\suomi\\.nuget\\packages\\",
-        "outputPath": "D:\\Koulu\\Ohjelmointi_2\\Harkat\\Kertaustehtävät\\Kertaustehtävät_1-4\\obj\\",
+        "outputPath": "D:\\Koulu\\Ohjelmointi_2\\Harkat\\Lambdaharkka2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\suomi\\AppData\\Roaming\\NuGet\\NuGet.Config"

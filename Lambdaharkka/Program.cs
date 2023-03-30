@@ -8,7 +8,5 @@ class Program
 
         Console.Write("Type comparable number: ");
         Console.ReadLine();
-
-        
     }
 }
