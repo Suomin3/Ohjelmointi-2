@@ -7,10 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-<<<<<<< HEAD:Joulukuusi2/obj/Debug/net7.0/Joulukuusi.GeneratedMSBuildEditorConfig.editorconfig
-build_property.RootNamespace = Joulukuusi
-build_property.ProjectDir = e:\Koulu\Ohjelmointi_2\Harkat\Joulukuusi2\
-=======
 build_property.RootNamespace = Periytyminen
-build_property.ProjectDir = d:\Koulu\Ohjelmointi_2\Harkat\Periytyminen2\
->>>>>>> 9bc8b5db37b99a58c14d2f1e3920079f870330ce:Periytyminen2/obj/Debug/net7.0/Periytyminen.GeneratedMSBuildEditorConfig.editorconfig
+build_property.ProjectDir = e:\Koulu\Ohjelmointi_2\Harkat\Periytyminen2\
