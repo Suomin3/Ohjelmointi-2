@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Koulu\\Ohjelmointi\\Ohjelmointi2\\Luentoharkat\\Periytyminen3\\Periytyminen3.csproj",
-      "projectName": "Periytyminen3",
-      "projectPath": "D:\\Koulu\\Ohjelmointi\\Ohjelmointi2\\Luentoharkat\\Periytyminen3\\Periytyminen3.csproj",
+      "projectUniqueName": "D:\\Koulu\\Ohjelmointi\\Ohjelmointi2\\Luentoharkat\\Periytyminen2\\Periytyminen2.csproj",
+      "projectName": "Periytyminen2",
+      "projectPath": "D:\\Koulu\\Ohjelmointi\\Ohjelmointi2\\Luentoharkat\\Periytyminen2\\Periytyminen2.csproj",
       "packagesPath": "C:\\Users\\suomi\\.nuget\\packages\\",
-      "outputPath": "D:\\Koulu\\Ohjelmointi\\Ohjelmointi2\\Luentoharkat\\Periytyminen3\\obj\\",
+      "outputPath": "D:\\Koulu\\Ohjelmointi\\Ohjelmointi2\\Luentoharkat\\Periytyminen2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\suomi\\AppData\\Roaming\\NuGet\\NuGet.Config"

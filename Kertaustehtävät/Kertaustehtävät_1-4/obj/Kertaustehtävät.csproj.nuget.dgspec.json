@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Koulu\\Ohjelmointi_2\\Harkat\\Kertaustehtävät\\Kertaustehtävät.csproj": {}
+    "D:\\Koulu\\Ohjelmointi_2\\Harkat\\Kertaustehtävät\\Kertaustehtävät_1-4\\Kertaustehtävät.csproj": {}
   },
   "projects": {
-    "E:\\Koulu\\Ohjelmointi_2\\Harkat\\Kertaustehtävät\\Kertaustehtävät.csproj": {
+    "D:\\Koulu\\Ohjelmointi_2\\Harkat\\Kertaustehtävät\\Kertaustehtävät_1-4\\Kertaustehtävät.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Koulu\\Ohjelmointi_2\\Harkat\\Kertaustehtävät\\Kertaustehtävät.csproj",
+        "projectUniqueName": "D:\\Koulu\\Ohjelmointi_2\\Harkat\\Kertaustehtävät\\Kertaustehtävät_1-4\\Kertaustehtävät.csproj",
         "projectName": "Kertaustehtävät",
-        "projectPath": "E:\\Koulu\\Ohjelmointi_2\\Harkat\\Kertaustehtävät\\Kertaustehtävät.csproj",
+        "projectPath": "D:\\Koulu\\Ohjelmointi_2\\Harkat\\Kertaustehtävät\\Kertaustehtävät_1-4\\Kertaustehtävät.csproj",
         "packagesPath": "C:\\Users\\suomi\\.nuget\\packages\\",
-        "outputPath": "E:\\Koulu\\Ohjelmointi_2\\Harkat\\Kertaustehtävät\\obj\\",
+        "outputPath": "D:\\Koulu\\Ohjelmointi_2\\Harkat\\Kertaustehtävät\\Kertaustehtävät_1-4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\suomi\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

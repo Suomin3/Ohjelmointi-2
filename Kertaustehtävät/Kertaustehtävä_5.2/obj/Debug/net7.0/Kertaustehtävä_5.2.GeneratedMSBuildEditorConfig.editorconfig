@@ -7,5 +7,15 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
+<<<<<<< HEAD
 build_property.RootNamespace = Kertaustehtävä_5._2
 build_property.ProjectDir = e:\Koulu\Ohjelmointi_2\Harkat\Kertaustehtävät\Kertaustehtävä_5.2\
+=======
+<<<<<<<< HEAD:Periytyminen3/obj/Debug/net7.0/Periytyminen3.GeneratedMSBuildEditorConfig.editorconfig
+build_property.RootNamespace = Periytyminen3
+build_property.ProjectDir = e:\Koulu\Ohjelmointi_2\Harkat\Periytyminen3\
+========
+build_property.RootNamespace = Kertaustehtävä_5._2
+build_property.ProjectDir = d:\Koulu\Ohjelmointi_2\Harkat\Kertaustehtävät\Kertaustehtävä_5.2\
+>>>>>>>> 9bc8b5db37b99a58c14d2f1e3920079f870330ce:Kertaustehtävät/Kertaustehtävä_5.2/obj/Debug/net7.0/Kertaustehtävä_5.2.GeneratedMSBuildEditorConfig.editorconfig
+>>>>>>> 9bc8b5db37b99a58c14d2f1e3920079f870330ce

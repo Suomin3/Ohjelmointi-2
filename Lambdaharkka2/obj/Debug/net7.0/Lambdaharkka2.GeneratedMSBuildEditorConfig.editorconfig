@@ -1,0 +1,16 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+<<<<<<< HEAD:O2_T7_Login/obj/Debug/net7.0/O2_T7_Login.GeneratedMSBuildEditorConfig.editorconfig
+build_property.RootNamespace = O2_T7_Login
+build_property.ProjectDir = e:\Koulu\Ohjelmointi_2\Harkat\O2_T7_Login\
+=======
+build_property.RootNamespace = Lambdaharkka2
+build_property.ProjectDir = d:\Koulu\Ohjelmointi_2\Harkat\Lambdaharkka2\
+>>>>>>> 9bc8b5db37b99a58c14d2f1e3920079f870330ce:Lambdaharkka2/obj/Debug/net7.0/Lambdaharkka2.GeneratedMSBuildEditorConfig.editorconfig

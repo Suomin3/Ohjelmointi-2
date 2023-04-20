@@ -1,0 +1,15 @@
+D:\Koulu\Ohjelmointi_2\Harkat\Lambdaharkka2\obj\Debug\net7.0\Lambdaharkka2.csproj.AssemblyReference.cache
+D:\Koulu\Ohjelmointi_2\Harkat\Lambdaharkka2\obj\Debug\net7.0\Lambdaharkka2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Koulu\Ohjelmointi_2\Harkat\Lambdaharkka2\obj\Debug\net7.0\Lambdaharkka2.AssemblyInfoInputs.cache
+D:\Koulu\Ohjelmointi_2\Harkat\Lambdaharkka2\obj\Debug\net7.0\Lambdaharkka2.AssemblyInfo.cs
+D:\Koulu\Ohjelmointi_2\Harkat\Lambdaharkka2\obj\Debug\net7.0\Lambdaharkka2.csproj.CoreCompileInputs.cache
+D:\Koulu\Ohjelmointi_2\Harkat\Lambdaharkka2\bin\Debug\net7.0\Lambdaharkka2.exe
+D:\Koulu\Ohjelmointi_2\Harkat\Lambdaharkka2\bin\Debug\net7.0\Lambdaharkka2.deps.json
+D:\Koulu\Ohjelmointi_2\Harkat\Lambdaharkka2\bin\Debug\net7.0\Lambdaharkka2.runtimeconfig.json
+D:\Koulu\Ohjelmointi_2\Harkat\Lambdaharkka2\bin\Debug\net7.0\Lambdaharkka2.dll
+D:\Koulu\Ohjelmointi_2\Harkat\Lambdaharkka2\bin\Debug\net7.0\Lambdaharkka2.pdb
+D:\Koulu\Ohjelmointi_2\Harkat\Lambdaharkka2\obj\Debug\net7.0\Lambdaharkka2.dll
+D:\Koulu\Ohjelmointi_2\Harkat\Lambdaharkka2\obj\Debug\net7.0\refint\Lambdaharkka2.dll
+D:\Koulu\Ohjelmointi_2\Harkat\Lambdaharkka2\obj\Debug\net7.0\Lambdaharkka2.pdb
+D:\Koulu\Ohjelmointi_2\Harkat\Lambdaharkka2\obj\Debug\net7.0\Lambdaharkka2.genruntimeconfig.cache
+D:\Koulu\Ohjelmointi_2\Harkat\Lambdaharkka2\obj\Debug\net7.0\ref\Lambdaharkka2.dll

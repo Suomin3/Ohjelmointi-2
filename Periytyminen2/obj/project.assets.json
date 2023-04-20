@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Koulu\\Ohjelmointi\\Ohjelmointi2\\Luentoharkat\\Periytyminen2\\Periytyminen2.csproj",
-      "projectName": "Periytyminen2",
-      "projectPath": "D:\\Koulu\\Ohjelmointi\\Ohjelmointi2\\Luentoharkat\\Periytyminen2\\Periytyminen2.csproj",
+      "projectUniqueName": "E:\\Koulu\\Ohjelmointi_2\\Harkat\\Periytyminen\\Periytyminen.csproj",
+      "projectName": "Periytyminen",
+      "projectPath": "E:\\Koulu\\Ohjelmointi_2\\Harkat\\Periytyminen\\Periytyminen.csproj",
       "packagesPath": "C:\\Users\\suomi\\.nuget\\packages\\",
-      "outputPath": "D:\\Koulu\\Ohjelmointi\\Ohjelmointi2\\Luentoharkat\\Periytyminen2\\obj\\",
+      "outputPath": "E:\\Koulu\\Ohjelmointi_2\\Harkat\\Periytyminen\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\suomi\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

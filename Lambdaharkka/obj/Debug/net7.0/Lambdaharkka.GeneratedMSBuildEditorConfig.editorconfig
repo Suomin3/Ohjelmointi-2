@@ -8,4 +8,8 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Lambdaharkka
+<<<<<<< HEAD
 build_property.ProjectDir = e:\Koulu\Ohjelmointi_2\Harkat\Lambdaharkka\
+=======
+build_property.ProjectDir = d:\Koulu\Ohjelmointi_2\Harkat\Lambdaharkka\
+>>>>>>> 9bc8b5db37b99a58c14d2f1e3920079f870330ce
