@@ -32,5 +32,10 @@ class Program
         FileStuff someFile2 = new FileStuff(eventManager, @"file2.txt");
 
         FileStuff someFile3 = new FileStuff(eventManager, @"file3.txt");
+
+        
+    }
+    static void ThisMethodWillRunIfEventIsTriggered() {
+        Console.WriteLine("Saatanan vittu");
     }
 }
