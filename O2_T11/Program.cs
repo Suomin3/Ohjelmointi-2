@@ -23,9 +23,11 @@ hyvin!
 */
 class Program
 {
+    static EventManager eventManager = new EventManager();
+    static FileStuff fileStuff = new FileStuff(eventManager);
     static void Main(string[] args)
     {
-        EventManager eventManager = new EventManager();
+        eventManager.WriteEvent += Writer;
 
         FileStuff someFile1 = new FileStuff(eventManager, @"file1.txt");
 
@@ -34,8 +36,5 @@ class Program
         FileStuff someFile3 = new FileStuff(eventManager, @"file3.txt");
 
         
-    }
-    static void ThisMethodWillRunIfEventIsTriggered() {
-        Console.WriteLine("Saatanan vittu");
     }
 }
